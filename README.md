@@ -7,6 +7,9 @@ Tech Stack
 - HTML
 - CSS
 
+<img width="1012" height="666" alt="Screenshot 2025-11-19 040800" src="https://github.com/user-attachments/assets/1b2c7a05-a25b-443e-9fce-649f2368b2e1" />
+
+
  Features
 - Multi-page website
 - Navigation menu
